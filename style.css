@@ -10,7 +10,7 @@ img {
   height: auto;
 }
 
-header-nav {
+header-nav li{
   text-decoration: none;
 }
 
