@@ -10,7 +10,11 @@ img {
   height: auto;
 }
 
-li {
+header-nav {
+  text-decoration: none;
+}
+
+a {
   text-decoration: none;
   color: #082B48;
 }
